@@ -1,7 +1,3 @@
-public package Project_3;
-
-// Simplified, corrected, and fully working version of single-threaded Elevator system in Java
-
 import java.util.*;
 
 enum Direction {
